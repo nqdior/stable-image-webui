@@ -1,0 +1,9 @@
+accelerate
+diffusers
+invisible_watermark
+torch
+transformers
+xformers
+numpy==2.0.0
+Pillow==10.3.0
+Requests==2.32.3
