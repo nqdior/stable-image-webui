@@ -648,4 +648,4 @@ with gr.Blocks(css=css, theme="NoCrypt/miku") as demo:
         outputs=[mask, outpaint_scale, CN_strength, search_prompt],
     )
     model.change(fn=update_style_visibility, inputs=model, outputs=style)
-demo.launch()
+demo.launch(server_name="0.0.0.0")
