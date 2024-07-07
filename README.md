@@ -1,5 +1,3 @@
-https://huggingface.co/spaces/nqdior/stable-image-webui
-
 ---
 title: Stable Image Webui
 emoji: 🖼
@@ -12,7 +10,7 @@ pinned: false
 license: apache-2.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/spaces/nqdior/stable-image-webui
 
 # Stability AI - Developer Platform WebUI
 ## UI for using the stable image api
