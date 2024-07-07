@@ -1,3 +1,5 @@
+https://huggingface.co/spaces/nqdior/stable-image-webui
+
 ---
 title: Stable Image Webui
 emoji: 🖼
